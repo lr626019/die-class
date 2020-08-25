@@ -1,2 +1,2 @@
- # Git Lab #2
- ## First team member: Logan Richards
+ # The second Git Lab
+ ## Second team member: Logan Richards2
